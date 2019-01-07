@@ -9,6 +9,6 @@ class Welcome{
 		system.out.println("bug fix from master after clone user added something")
 		System.out.println("clone user adding line")
 		System.out.println("clone user adding line 2nd time")
-
+		system.out.println("before rebase pull")
 	}
 }
