@@ -10,5 +10,6 @@ class Welcome{
 		System.out.println("clone user adding line")
 		System.out.println("clone user adding line 2nd time")
 		system.out.println("before rebase pull")
+		system.out.print ("bug fix around stash")
 	}
 }
